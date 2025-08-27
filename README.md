@@ -11,4 +11,4 @@ This project has three aims: (1) explore the theory that allows high dimensional
 <h2>Repository Content</h2>
 
 - <b>Report written in LaTeX (source and pdf)</b>
-- <b>A folder containg the code written in R and the dataset</b>
+- <b>A folder containg the code written in `R` and the dataset</b>
